@@ -120,9 +120,8 @@ EmpoweredHouse is the brand for the runtime and the work that surrounds it. It s
 
 - Site: [empowered.house](https://empowered.house)
 - Intelligence layer: [shugyo.ai](https://shugyo.ai)
-- Contact: karol@empowered.house
-- Long-form argument: the [[EmpoweredHouse-Manifest]]
-- Strategic thesis: [[PNS-Ecosystem-Vision]]
+- Contact: empowered@appunite.com
+- Long-form argument: the [EmpoweredHouse-Manifest](https://github.com/EmpoweredHouse/.github/blob/main/profile/Manifest.md)
 
 ---
 
@@ -178,5 +177,3 @@ Incubating, not yet public:
 - Runtime observability as its own package.
 - The process repository tooling decoupled from the starter.
 - The process-mapping playbook as a published package (the playbook content lives in the broader EmpoweredHouse and Appunite documentation).
-
-Other public repos in the org (`model-size-selection`, `IE-pipeline`, `gmail-graph-rag`, `langextract-api`) are research artefacts, not part of the runtime. They are not surfaced on this README. If one becomes load-bearing for the ecosystem, promote it explicitly.
